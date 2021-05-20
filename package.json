@@ -1,6 +1,8 @@
 {
   "name": "fullstack-test",
   "version": "1.0.0",
+  "private": true,
+  "workspaces": ["client", "rest-api"],
   "description": "> A simple test to show us how awesome you are!",
   "main": "index.js",
   "scripts": {
