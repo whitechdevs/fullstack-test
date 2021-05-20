@@ -27,12 +27,12 @@ Your task is to build a ReactJS and NodeJS powered application to:
 ### Node
 - Webpack (preferably)
 - Express
-- High Test coverage
+- High Test coverage (Optional)
 - ES6 +
 - API should return the list of products available in the products.json - setting up correct data models and layers (use your choice of DB)
 
 ### Bonus
-- Dockerised application
+- Typescript
 
 ## Notes
 
@@ -58,4 +58,3 @@ yarn start
 - Code quality
 - Structure
 - Understanding of Javascript
-- Tests
