@@ -25,11 +25,10 @@ Your task is to build a ReactJS and NodeJS powered application to:
 - ES6 +
 
 ### Node
-- Webpack (preferably)
 - Express
 - High Test coverage (Optional)
 - ES6 +
-- API should return the list of products available in the products.json - setting up correct data models and layers (use your choice of DB)
+- API should return the list of products available in the products.json -- setting up correct data models and layers (preferably; use your choice of DB)
 
 ### Bonus
 - Typescript
@@ -39,6 +38,7 @@ Your task is to build a ReactJS and NodeJS powered application to:
 - Use a starter kit of your choice.
 - Feel free to use npm packages to help you achieve a result.
 - Feel free to also document your approach, any shortcomings and concerns that you encountered during the process, though this is not a mandatory requirement, it helps us better understand your thought process.
+- Does not need to be production ready.
 
 ## Deliverable
 
