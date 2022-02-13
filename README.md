@@ -35,10 +35,10 @@ Your task is to build a ReactJS and NodeJS powered application to:
 
 ## Notes
 
-- Use a starter kit of your choice.
 - Feel free to use npm packages to help you achieve a result.
 - Feel free to also document your approach, any shortcomings and concerns that you encountered during the process, though this is not a mandatory requirement, it helps us better understand your thought process.
 - Does not need to be production ready.
+- This scaffolding uses npm workspaces (v7 or over) and also supports [pnpm](https://pnpm.io/ko/installation#nodejs-is-preinstalled). Please try to globally install if you don't have one
 
 ## Deliverable
 
@@ -47,9 +47,9 @@ Send us your repository URL. Your code will be reviewed and we'll ask you questi
 When we pull your code we'll execute the following commands:
 
 ```
-yarn
-yarn test
-yarn start
+npm install
+npm test
+npm start
 ```
 
 ## Assessment Criteria
