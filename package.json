@@ -9,7 +9,6 @@
   "description": "> A simple test to show us how awesome you are!",
   "main": "index.js",
   "scripts": {
-    "bootstrap": "pnpm install && pnpm --dir client add iterall@^1.3.0 -f",
     "clean:modules": "rimraf \"*/node_modules\" && rimraf node_modules",
     "start:back": "pnpm --dir rest-api start",
     "start:front": "pnpm --dir client start",
